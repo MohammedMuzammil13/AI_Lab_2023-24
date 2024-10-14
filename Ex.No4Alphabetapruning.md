@@ -62,8 +62,8 @@ print("Optimal value:", alpha_beta_pruning(0, 0, True, values, -INF, INF))
 
 ```
 ## Output:
+![4](https://github.com/user-attachments/assets/279d2fb4-d1d4-4298-87a7-a05b441c0cf5)
 
-![](Alpha_Beta_Pruning.png)
 
 ## Result:
 Thus the best score of max player was found using Alpha Beta Pruning.
