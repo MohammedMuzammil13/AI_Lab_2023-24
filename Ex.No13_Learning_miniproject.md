@@ -1,7 +1,7 @@
 # Ex.No: 13 Machine Learning – Mini Project - Route Optimization Model Using Ridge Regression 
 ### DATE: 04/11/2024       
-### NAME: NANDA KISHORE R
-### REGISTER NUMBER : 212222060157
+### NAME: MOHAMMED MUZAMMIL A
+### REGISTER NUMBER : 212222040103
 ### AIM: 
 To write a program to train a route optimization model using Ridge Regression
 ###  Algorithm:
