@@ -1,5 +1,5 @@
 # Ex.No: 10  Logic Programming –  Simple queries from facts and rules
-### DATE: 23/09/24                                                                        
+### DATE: 14/10/24                                                                        
 ### REGISTER NUMBER : 212222040103
 ### NAME: MOHAMMED MUZAMMIL A
 ### AIM: 
