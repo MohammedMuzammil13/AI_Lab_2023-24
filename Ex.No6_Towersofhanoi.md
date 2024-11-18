@@ -1,6 +1,6 @@
 # Ex.No: 6   Towers of Hanoi _ Prolog  
 ### DATE:      
-23/09/2024
+09/09/2024
 ### REGISTER NUMBER : 
 212222040103
 ### AIM: 
