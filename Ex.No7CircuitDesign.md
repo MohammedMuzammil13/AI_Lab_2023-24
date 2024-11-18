@@ -2,7 +2,7 @@
 ## DATE:     
 23/09/2024
 ## REGISTER NUMBER : 
-212222040136
+212222040103
 ## AIM: 
 To write a logic program to design a circuit like half adder and half subtractor.
 ##  Algorithm:
