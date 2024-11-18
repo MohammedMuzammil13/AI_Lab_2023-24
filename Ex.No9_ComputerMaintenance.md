@@ -1,5 +1,5 @@
 # Ex.No: 9  Logic Programming –  Computer Maintenance Expert System
-### DATE: 23-09-2024
+### DATE: 07-10-2024
 ### NAME: MOHAMMED MUZAMMIL A
 ### REGISTER NUMBER : 212222040103
 ### AIM: 
